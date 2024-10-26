@@ -1,0 +1,89 @@
+BACKUP ~P!Bhaal/Backup~
+AUTHOR ~Esprit - duracuir@hotmail.com~
+
+LANGUAGE ~Francais~
+	~French~
+	~P!Bhaal/Tra/French/Setup.tra~
+
+	LANGUAGE ~Francais pour les editions EE~
+	~French~
+	~P!Bhaal/Tra/French EE/Setup.tra~
+
+BEGIN @1
+INCLUDE ~P!Bhaal/fl#add_kit_ee.tpa~
+
+ADD_KIT ~PIBhaal~
+~PIBhaal                0           0           1           1           0           1           0           0~
+~PIBhaal  0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
+~PIBhaal                0       0       0       0       9       9~
+~PIBhaal                0       0       0       0       0       0~
+~PIBhaal                0       0       0       0       17      0~
+~PIBhaal                0       0       0       0       15      0~
+~PIBhaal                0       0       0       0       0       0       0       0       1~
+~PIBhaal                1       0       0       0       0       0~
+~P!Bhaal/2da/PIBhaal.2da~
+~K_C_D K_C_E K_C_G K_C_H K_C_HE K_C_HL K_C_HO~
+~0x00004000 3~
+~PIB~
+~CHAN09 * HELM07 BAG20 RING06 RING31 * BOOT01 AMUL19 BRAC16 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN4,2 POTN14,5 HAM07 SW1H27 STAF08~
+SAY @2
+SAY @3
+SAY @4
+
+ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+	LAF fl#add_kit_ee	STR_VAR kit_name = PIBhaal	END
+END
+
+//////////////////////////////////////////////////////Capacités spéciales\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+COPY ~P!Bhaal/spells/BhaChaos.spl~  ~override/Bhachaos.spl~  //Similaire à boule de feu
+SAY NAME1 @5
+SAY NAME2 @5
+
+COPY ~P!Bhaal/spells/Bhpain.spl~  ~override/Bhpain.spl~     //Similaire à Chaîne d'éclair
+SAY NAME1 @6
+SAY NAME2 @6
+
+COPY ~P!Bhaal/spells/SSbhaal.spl~  ~override/SSbhaal.spl~  //Symbole sacré : Fait apparaître le symbole sacré de Bhaal dans l'inventaire
+COPY ~P!Bhaal/spells/bhch.spl~ ~override/bhch.spl~         //Chaos : Similaire au sort Chaos
+
+//////////////////////////////////////////////////////Objets\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+COPY ~P!Bhaal/items/SSBhaal.itm~  ~override/SSBhaal.itm~
+SAY NAME1 @7
+SAY NAME2 @8
+SAY UNIDENTIFIED_DESC @9
+SAY DESC @10
+
+COPY ~P!Bhaal/items/MBhaal.itm~ ~override/MBhaal.itm~
+SAY NAME2 @11
+SAY UNIDENTIFIED_DESC @12
+SAY DESC @13
+
+//////////////////////////////////////////////////////Sorts de hauts niveaux\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+COPY ~P!Bhaal/2da/LUPIB.2da~ ~override/LUPIB.2da~
+
+COPY ~P!Bhaal/CHN/bhaaldes.spl~ ~override/bhaaldes.spl~  //Similaire au sort Comète//
+SAY NAME1 @14
+SAY NAME2 @14
+SAY UNIDENTIFIED_DESC @15
+SAY DESC @15
+/////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+COPY ~P!Bhaal/CHN/thruse.spl~ ~override/thruse.spl~     //invoque six assassins dévoués prêts à en découdre avec l'ennemi//
+SAY NAME1 @16
+SAY NAME2 @16
+SAY UNIDENTIFIED_DESC @17
+SAY DESC @17
+/////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+COPY ~P!Bhaal/CHN/ecorr.spl~ ~override/ecorr.spl~      //invoque l'ombre de l'écorcheur//
+SAY NAME1 @18
+SAY NAME2 @18 
+SAY UNIDENTIFIED_DESC @19
+SAY DESC @19
+/////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+COPY ~P!Bhaal/CHN/Convinf.spl~ ~override/convinf.spl~  //invoque deux puissants cambions guerrier-mages, dévoués à votre cause//
+SAY NAME1 @20
+SAY NAME2 @20
+SAY UNIDENTIFIED_DESC @21
+SAY DESC @21
