@@ -7,5 +7,5 @@
 * Au niveau 10 immunité au poison.
 
 - Désavantage : Alignement limité à chaotiques Mauvais
-
+  
 - Hlas personnalisé et équipement trouvable personnalisé.
