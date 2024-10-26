@@ -1,6 +1,6 @@
 # Kit de Prêtre de Bhaal
 
--Avantages :
+- Avantages :
 
   Sort Chaos au niveau 1 puis tous les 10 niveaux
   
