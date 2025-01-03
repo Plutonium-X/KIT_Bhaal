@@ -5,9 +5,13 @@ LANGUAGE ~Francais~
 	~French~
 	~P!Bhaal/Tra/French/Setup.tra~
 
-	LANGUAGE ~Francais pour les editions EE~
+LANGUAGE ~Francais pour les editions EE~
 	~French~
 	~P!Bhaal/Tra/French EE/Setup.tra~
+	
+LANGUAGE ~English~
+	~english~
+	~P!Bhaal/Tra/English/Setup.tra~
 
 BEGIN @1
 INCLUDE ~P!Bhaal/fl#add_kit_ee.tpa~
