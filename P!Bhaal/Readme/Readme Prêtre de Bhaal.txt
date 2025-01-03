@@ -17,6 +17,7 @@ Avantages :
 - Chaos de Bhaal : à partir du niveau 10 le Prêtre de Bhaal peut lancer le sortilège Chaos de Bhaal (similaire a boule de feu) 1 fois par jour. Il gagne cette capacité une nouvelle fois au niveau 20 puis au niveau 40.
 - Torture de Bhaal : au niveau 15, 25 et 40 le prêtre de Bhaal obtient la capacité Torture de Bhaal une fois par jour (similaire à chaîne d'éclair).
 - Au niveau 10 le Prêtre de Bhaal obtient une immunité permanente au poison.
+- Au niveau 16 le Prêtre de Bhaal obtient une immunité permanente à la paralysie et au drain de niveau.
 
 Désavantage : Seul les personnages chaotiques Mauvais peuvent être Prêtre de Bhaal.
 
@@ -73,7 +74,6 @@ Ce marteau à autrefois appartenu à Shaïgatyr, un demi orque serviteur de Bhaal. 
 PARAMETRES :
 
 +2 points de force
--2 points de constitution
 TAC0 :  +4
 Dégâts :  1D12 +4
 Type de Dégâts :  contondant
@@ -90,4 +90,13 @@ Utilisable seulement par :
 Merci à Mathrim Cauthon pour ses traductions de tutoriaux qui m'ont été d'une aide précieuse
 Merci à Angelus Crow et Isaya pour leurs conseils et les pistes qu'ils m'ont fournies pour créer ce mod
 
-Vous retrouverez tout ce beau monde sur les forums de la couronne de cuivre à l'adresse suivante : http://www.baldursgateworld.com/lacouronne/index.php?showforum=85
+Vous retrouverez tout ce beau monde sur les forums de la Couronne de cuivre à l'adresse suivante : http://www.baldursgateworld.com/lacouronne/index.php?showforum=85
+
+
+Historique :
+v1.0 : première version.
+v1.1 : ajout des hlas.
+v1.2 : ajout de la compatibilité avec BG2EE et EET.
+v1.3 : ajout de la traduction anglaise.
+	   ajout dans la description d'une capacité acquise par le kit (au niveau 16) mais non référencée.
+	   Correction de l'objet Pilon du carnage +4 et ajout d'une possibilité de le récupérer.
