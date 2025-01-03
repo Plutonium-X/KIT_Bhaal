@@ -6,6 +6,6 @@
   - Sort Torture de Bhaal (Chaîne d'éclair) aux niveau 15, 30 et 40
   - Au niveau 10 immunité au poison.
 
--Désavantage : Alignement limité à chaotiques Mauvais
+-Désavantage : Alignement limité à Chaotique Mauvais.
   
--Hlas personnalisé et équipement trouvable personnalisé.
+-Hlas personnalisés : Météore et 3 sorts de convocations puissants (+Portail + Convocation de Déva, dur de choisir ^^)
