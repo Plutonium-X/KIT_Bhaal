@@ -11,6 +11,7 @@ Avantages :
 - Chaos de Bhaal : à partir du niveau 10 le Prêtre de Bhaal peut lancer le sortilège Chaos de Bhaal (similaire a boule de feu) 1 fois par jour. Il gagne cette capacité une nouvelle fois au niveau 20, 30, puis au niveau 40.
 - Torture de Bhaal : au niveau 15, 30 et 40 le prêtre de Bhaal obtient la capacité Torture de Bhaal une fois par jour (similaire à chaîne d'éclair).
 - Au niveau 10 le Prêtre de Bhaal obtient une immunité permanente au poison.
+- Au niveau 16 le Prêtre de Bhaal obtient une immunité permanente à l'immobilisation et au drain de niveau.
 
 Désavantage : Seul les personnages chaotiques Mauvais peuvent être Prêtre de Bhaal.~
 
@@ -38,7 +39,8 @@ Ce marteau à autrefois appartenu à Shaïgatyr, un demi-orque serviteur de Bhaal. 
 
 PARAMETRES :
 
-+2 points de force
+Capacité d'équipement : Force +2
+
 TAC0 :  +4
 Dégâts :  1D12 +4
 Type de Dégâts :  contondant
