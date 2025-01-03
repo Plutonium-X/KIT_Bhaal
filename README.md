@@ -9,5 +9,5 @@
 
 -Désavantage : Alignement limité à Chaotique Mauvais.
   
--Hlas personnalisés : Météore et 3 sorts de convocations puissants (+Portail + Convocation de Déva, dur de choisir ^^)
+-Hlas personnalisés : Météore et 3 sorts de convocations puissants (+Portail + Convocation de Déva, dur de choisir ^^)  
 -Rajoute un objet puissant trouvable quelque part dans TOB.
