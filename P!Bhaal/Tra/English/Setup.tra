@@ -55,6 +55,7 @@ Only usable by:
 - Priests of Bhaal~
 @14 = ~Wrath of Hell~
 @15 = ~Wrath of Hell
+
 Level: 7
 Range: 15 meters
 Duration: Instant
@@ -65,6 +66,7 @@ Saving Throw: special
 At the end of the incantation, a thunderous sound echoes through the sky and there is a yawning chasm, through which can be seen the depths of hell. A meteor crashes from the chasm onto the target location targeted dealing 10d10 points of damage to everything in the area unless the win a saving throw.~
 @16 = ~Summon Blades of Murder~
 @17 = ~Summon Blades of Murder
+
 Level: 7
 Range: 10 meters
 Duration: 11 turns
@@ -75,6 +77,7 @@ Saving Throw: None
 The "Blades of Murder" were a group of assassins devoted to the Lord of Murder. When he disappeared, giving way to Cyric, the Blades of murder took refuge in the depths of hell. The Priests of Bhaal's knowledge allows them to call on the blades to their aid.~
 @18 = ~Summon Shadow of the Shrike~
 @19 = ~Summon Shadow of the Shrike
+
 Level: 7
 Range: 7 meters
 Duration: 8 hours
@@ -85,6 +88,7 @@ Saving Throw: None
 This spell uses the essence of Bhaal to open a portal to hell. What remains of the Shrike, a favoured beast of Bhaal, is summoned to help the caster against their enemies within view range.~
 @20 = ~Murder's Child~
 @21 = ~Murder's Child
+
 Level: 7
 Range: 15 meters
 Duration: 8 hours

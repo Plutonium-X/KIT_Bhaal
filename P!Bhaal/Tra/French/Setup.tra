@@ -55,6 +55,7 @@ Utilisable seulement par :
 - Prêtres de Bhaal~
 @14 = ~Fureur des cieux~
 @15 = ~Fureur des cieux
+
 Niveau : 7
 Portée : 15 mètres
 Durée : Instantané
@@ -65,6 +66,7 @@ Jet de sauvegarde : spécial
 A la fin de l'incantation du Prêtre, un bruit de tonnerre envahit le ciel et un gouffre béant s'ouvre dans les cieux. L'instant d'après un météore s'écrase sur l'endroit pointé par le Prêtre infligeant 10d10 points de dégâts à toutes les cibles dans la zone d'effet. Les créatures touchées seront sonnées sauf si elles réussissent leur jet de sauvegarde.~
 @16 = ~Convocation des Lames du Meurtre~
 @17 = ~Convocation des Lames du Meurtre
+
 Niveau : 7
 Portée : 10 mètres
 Durée : 11 tours
@@ -75,6 +77,7 @@ Jet de sauvegarde : aucun
 Les "Lames du meurtre" étaient un groupe d'assassins dévoués au Seigneur du Meurtre. Lorsque celui-ci disparut, laissant place à Cyric, les Lames du meurtre se réfugièrent dans les abysses. Aujourd'hui vos compétences vous permettent de faire appel à eux. En tant qu'enfant de Bhaal et prêtre de son culte ils vous obéirons sans conditions.~
 @18 = ~Convocation de l'ombre de l'écorcheur~
 @19 = ~Convocation de l'ombre de l'écorcheur
+
 Niveau : 7
 Portée : 7 mètres
 Durée : 8 heures
@@ -85,6 +88,7 @@ Jet de sauvegarde : aucun
 Ce sort fait appel à l'essence de Bhaal pour ouvrir une faille, suffisamment grande, vers le plan abyssal. Ce qu'il reste de l'écorcheur, la bête favorite du dieu du meurtre, vous vient alors en aide en attaquant tous les ennemis se trouvant dans son champ de vision.~
 @20 = ~Rejetons du meurtre~
 @21 = ~Rejetons du meurtre
+
 Niveau : 7
 Portée : 15 mètres
 Durée : 8 heures
