@@ -46,11 +46,11 @@ Bonus +2 strength points
 THAC0: +4 bonus
 Damage: 1D12 +4
 Damage Type: Crushing
-Weight: 5
 Speed Factor: 2
 Proficiency Type: War Hammer
 Type: 1-handed
 Requires: 12 strength
+Weight: 5
 
 Only usable by:
 - Priests of Bhaal~
@@ -61,7 +61,7 @@ Range: 15 meters
 Duration: Instant
 Casting Time: 3
 Area of Effect: special
-Saving Throw:
+Saving Throw: special
 
 At the end of the incantation, a thunderous sound echoes through the sky and there is a yawning chasm, through which can be seen the depths of hell. A meteor crashes from the chasm onto the target location targeted dealing 10d10 points of damage to everything in the area unless the win a saving throw.~
 @17 = ~Summon Blades of Murder~
@@ -77,8 +77,8 @@ The "Blades of Murder" were a group of assassins devoted to the Lord of Murder. 
 @19 = ~Summon Shadow of the Shrike~
 @20 = ~Summon Shadow of the Shrike
 Level: 7
-Range: 15 meters
-Duration:
+Range: 7 meters
+Duration: 8 hours
 Casting time: 9
 Area of Effect: special
 Saving Throw: None
@@ -88,7 +88,7 @@ This spell uses the essence of Bhaal to open a portal to hell. What remains of t
 @22 = ~Murder's Child
 Level: 7
 Range: 15 meters
-Duration:
+Duration: 8 hours
 Casting time: 8
 Area of Effect: special
 Saving Throw: None
