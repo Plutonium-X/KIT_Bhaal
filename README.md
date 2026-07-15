@@ -12,3 +12,19 @@
 Hlas personnalisés : Météore et 3 sorts de convocations puissants (+Portail + Convocation de Déva), dur de choisir ^^
 
 Rajoute un objet puissant trouvable quelque part dans TOB.
+
+-------------------------------------------------
+# Priest of Bhaal Kit
+
+- Advantages:
+  - Chaos spell at level 1, then every 10 levels
+  - Bhaal's Chaos spell (Fireball) at level 1, then every 10 levels
+  - Bhaal's Torture spell (Chain Lightning) at levels 15, 30, and 40
+  - Immunity to poison at level 10.
+  - At level 16, permanent immunity to immobilization and level drain.
+
+-Disadvantage: Alignment limited to Chaotic Evil.
+  
+Custom Hlas: Meteor and 3 powerful summoning spells (+Portal + Summon Deva), hard to choose ^^
+
+Add a powerful item that can be found somewhere in TOB.
