@@ -27,7 +27,7 @@ ADD_KIT ~PIBhaal~
 ~PIBhaal                0       0       0       0       0       0~
 ~PIBhaal                0       0       0       0       17      0~
 ~PIBhaal                0       0       0       0       15      0~
-~PIBhaal                0       0       0       0       0       0       0       0       1~
+~PIBhaal                0       0       1       0       0       0       0       0       1~
 ~PIBhaal                1       0       0       0       0       0~
 ~P!Bhaal/2da/PIBhaal.2da~
 ~K_C_D K_C_E K_C_G K_C_H K_C_HE K_C_HL K_C_HO~
@@ -62,6 +62,7 @@ SAY NAME1 @7
 SAY NAME2 @8
 SAY UNIDENTIFIED_DESC @9
 SAY DESC @10
+COPY ~P!Bhaal/items/SSBhaal.bam~  ~override/SSBhaal.bam~
 
 COPY ~P!Bhaal/items/MBhaal.itm~ ~override/MBhaal.itm~
 SAY NAME2 @11
